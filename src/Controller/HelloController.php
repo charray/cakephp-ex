@@ -3,7 +3,7 @@
 
     use App\Controller\AppController;
 
-    class Hello.phpController extends AppController
+    class HelloController extends AppController
     {
 
     }
